@@ -1,0 +1,14 @@
+ANDROID_HOME C:\Android
+ANDROID_SDK_ROOT C:\Android\sdk
+JAVA_HOME C:\Program Files\Java\jdk-11.0.16
+in path add the following
+//user
+C:\Android
+C:\Android\sdk
+C:\Program Files\Java\jdk-11.0.16
+C:\Android\flutter\bin
+%JAVA_HOME%bin
+C:\Program Files\Git\bin\git.exe;C:\Program Files\Git\cmd;C:\WindowsSystem32
+
+system
+C:\Program Files\Git\bin\git.exe;C:\Program Files\Git\cmd;C:\Windows\System32
